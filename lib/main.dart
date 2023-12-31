@@ -7,7 +7,7 @@ import 'package:food_delivery_app/screens/homepage.dart';
 import 'package:food_delivery_app/screens/loginpages/login.dart';
 
 import 'firebase_options.dart';
-
+// commit for sonarqube scan
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   Stripe.publishableKey =
