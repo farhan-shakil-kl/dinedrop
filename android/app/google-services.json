@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "367110675518",
+    "project_id": "dine-drop-ecommer",
+    "storage_bucket": "dine-drop-ecommer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367110675518:android:f763934c9b8ca31321856f",
+        "android_client_info": {
+          "package_name": "com.example.frontend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367110675518-8fvp9cue9ul9hvh6m7gbmffnfp1tvkmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHOzVGiTBE_bBNUcrIfXRM_oXU3lrdxpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367110675518-8fvp9cue9ul9hvh6m7gbmffnfp1tvkmd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "367110675518-fv75at4ro6ahr339mhdqhi1b2tbuok9b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodDeliveryApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
